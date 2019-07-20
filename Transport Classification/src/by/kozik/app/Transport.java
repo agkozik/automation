@@ -4,10 +4,8 @@ public abstract class Transport {
 
     private int wheelCount;
     private int passengerCount;
-    //
 
     private String gearbox;
-    //
 
 
     public Transport(int wheelCount, int passengerCount, String gearbox) {
