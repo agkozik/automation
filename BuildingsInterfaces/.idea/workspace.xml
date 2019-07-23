@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ee6156e-085e-4f60-9930-e6e02208aa9b" name="Default Changelist" comment="Interface Lesson">
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/IAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/MyFavoryteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BuildingsInterfaces/by/kozik/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BuildingsInterfaces/by/kozik/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/kozik/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/kozik/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

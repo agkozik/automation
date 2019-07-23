@@ -1,12 +1,28 @@
 package by.kozik.app;
 
+import java.util.ArrayList;
+import java.util.Random;
+
 public class Main {
 
     public static void main(String[] args) {
 
-    IAnimal crow =new Bird("Crow", "Kar-Kar",1,0.79);
-       crow.getInfo();
-       IAnimal dog = new Dog("Sharic","Kar-kar",3,2.05);
+        ArrayList <String>voices = new ArrayList<String>();
+        voices.add("Kar-Kar");
+        voices.add ("Gav-Gav");
+
+        Random myrandom = new Random();
+        String random = voices.get(myrandom.nextInt(voices.size()));
+
+    IAnimal crow =new Bird("Crow", voices.get(0),1,0.79);
+    IAnimal dog = new Dog("Sharic",voices.get(1),3,2.05);
+    IAnimal pigeon = new Bird("Pigeon",voices.get(0),1,0.2);
+
+    IAnimal cow = new Dog ("Burenka",random,3,5);
+
        dog.getInfo();
+       crow.getInfo();
+       pigeon.getInfo();
+       cow.getInfo();
     }
 }
