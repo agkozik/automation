@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ee6156e-085e-4f60-9930-e6e02208aa9b" name="Default Changelist" comment="Interface Lesson">
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Barn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Buildings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Dacha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/FlatsBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Garrage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/HouseInTheCountry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/IBuildings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/kozik/app/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Transport Classification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Transport Classification/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Transport Classification/src/by/kozik/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Transport Classification/src/by/kozik/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Transport Classification/src/by/kozik/app/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Transport Classification/src/by/kozik/app/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/IAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/MyFavoryteException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BuildingsInterfaces/by/kozik/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BuildingsInterfaces/by/kozik/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/kozik/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/kozik/app/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="408">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
               <folding>
                 <element signature="e#333#334#0" expanded="true" />
                 <element signature="e#379#380#0" expanded="true" />
@@ -44,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/IBuildings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -53,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Buildings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="594">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -63,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/HouseInTheCountry.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -81,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Dacha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding>
                 <element signature="e#131#132#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -103,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/FlatsBuilding.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
               <folding>
                 <element signature="e#147#148#0" expanded="true" />
                 <element signature="e#199#200#0" expanded="true" />
@@ -166,7 +164,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Store.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding>
                 <element signature="e#133#134#0" expanded="true" />
                 <element signature="e#185#186#0" expanded="true" />
@@ -190,6 +188,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -207,19 +206,12 @@
         <option value="$PROJECT_DIR$/src/by/kozik/app/Store.java" />
         <option value="$PROJECT_DIR$/src/by/kozik/app/Garrage.java" />
         <option value="$PROJECT_DIR$/src/by/kozik/app/Barn.java" />
+        <option value="$PROJECT_DIR$/src/by/kozik/app/ETypeBuildings.java" />
         <option value="$PROJECT_DIR$/src/by/kozik/app/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="734" />
     <option name="y" value="2" />
     <option name="width" value="1106" />
@@ -265,6 +257,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -318,15 +311,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18805803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Messages" weight="0.32917964" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33437175" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22741432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,6 +358,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/FlatsBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/ETypeBuildings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Barn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -384,43 +422,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/IBuildings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Buildings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/kozik/app/HouseInTheCountry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" column="43" lean-forward="true" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -436,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Dacha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
@@ -453,29 +458,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/FlatsBuilding.java">
+    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Buildings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="594">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/kozik/app/IBuildings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/kozik/app/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="408">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
           <folding>
             <element signature="e#333#334#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
@@ -483,5 +483,20 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

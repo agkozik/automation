@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-       HouseInTheCountry houseInTheCountry =new HouseInTheCountry("House","Living",1,4);
-       Dacha dacha=new Dacha("Dacha","living",2,3);
-       FlatsBuilding flatsBuilding =new FlatsBuilding("FlatBuilding", "Living",9,524);
+       Buildings houseInTheCountry =new HouseInTheCountry("HouseInTheCountry","Living",1,4);
+      Buildings dacha=new Dacha("Dacha","living",2,3);
+       FlatsBuilding flatsBuilding =new FlatsBuilding("FlatsBuilding", "Living",9,524);
 
         objectCountry(houseInTheCountry);
         objectCountry(dacha);
@@ -21,7 +21,13 @@ public class Main {
        Store store = new Store("Store","Non-residential",1,0);
        store.getProperties();
 
+       //if(barn instanceof Garrage) System.out.println("true");
+        //System.out.println(houseInTheCountry.equals(dacha));
+        //System.out.println(dacha.getClass());
+        //System.out.println(dacha.hashCode());
+        System.out.println(dacha.toString());
         }
+
 
     private static void objectCountry (Buildings zdanie){
         zdanie.getProperties();
