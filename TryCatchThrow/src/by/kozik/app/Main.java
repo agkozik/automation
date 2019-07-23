@@ -16,13 +16,13 @@ public class Main {
 
     IAnimal crow =new Bird("Crow", voices.get(0),1,0.79);
     IAnimal dog = new Dog("Sharic",voices.get(1),3,2.05);
-    IAnimal pigeon = new Bird("Pigeon",voices.get(0),1,0.2);
+    IAnimal pigeon = new Bird("Pigeon",random,1,0.2);
 
-    IAnimal cow = new Dog ("Burenka",random,3,5);
+    IAnimal puppy = new Dog ("White Bim",random,3,5);
 
        dog.getInfo();
        crow.getInfo();
        pigeon.getInfo();
-       cow.getInfo();
+       puppy.getInfo();
     }
 }
