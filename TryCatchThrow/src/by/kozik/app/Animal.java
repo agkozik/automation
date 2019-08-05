@@ -14,18 +14,13 @@ public abstract class Animal implements IAnimal {
         this.weight = weight;
     }
 
-
     public abstract int getAge();
-
 
     public abstract double getWeight();
 
-
     public abstract String getName();
 
-
     public abstract String getVoice();
-
 
     @Override
     public void getInfo() {

@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ee6156e-085e-4f60-9930-e6e02208aa9b" name="Default Changelist" comment="Interface Lesson">
       <change beforePath="$PROJECT_DIR$/../TryCatchThrow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/out/production/TryCatchThrow/by/kozik/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TryCatchThrow/src/by/kozik/app/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -314,7 +310,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32917964" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22741432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22741432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
